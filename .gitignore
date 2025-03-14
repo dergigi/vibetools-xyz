@@ -39,4 +39,7 @@ pnpm-debug.log*
 .temp/
 
 # Cache
-.cache/ 
+.cache/
+
+# Vercel
+.vercel/ 
